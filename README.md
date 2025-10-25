@@ -1,4 +1,4 @@
-# 💡 Elektronika Satış Analizi (Power BI Dashboard)
+# 💡 Elektronika Satış Analizi 
 
 ## 📊 Layihə Haqqında
 Bu **Power BI** layihəsi elektronika və məişət məhsullarının satış performansını təhlil etmək məqsədilə hazırlanmışdır.  
@@ -14,7 +14,7 @@ Dashboard-lar satış, maya, məhsul və satıcı səviyyəsində göstəricilə
 - <a href=https://github.com/EsmerMemmedli/Elektronika-Satis-Analizi/blob/main/Elektronika%20satis%20analizi.pbix>Layihə</a>
 
 ## 📊 İstifadə Olunan Databaza
-- <a href=https://github.com/EsmerMemmedli/Elektronika-Satis-Analizi/blob/main/Elekronika%20satis%20.xlsx>Satışlar Dataset</a>
+- <a href=https://github.com/EsmerMemmedli/Elektronika-Satis-Analizi/blob/main/Elekronika%20satis%20.xlsx>Dataset</a>
 
 ## 🧭 Dashboard Strukturuna Baxış
 
